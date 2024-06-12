@@ -1,0 +1,20 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "My personal Prettier configuration",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdulin/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "novaline.dulin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdulin/prettier-config/issues"
+  },
+  "homepage": "https://github.com/mrdulin/prettier-config#readme"
+}
